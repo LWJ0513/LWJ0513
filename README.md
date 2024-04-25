@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi  👋  I'm Wonjeong Lim
 
 <!--
 **LWJ0513/LWJ0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>
-<img src="https://img.shields.io/badge/42 Seoul-000000.svg?style=for-the-badge&logo=42&logoColor=white">
-<img src="https://img.shields.io/badge/C/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-00599C.svg?style=for-the-badge&logo=java&logoColor=white">
-  
-</span>
+### Contact
+```
+oddish0513@gmail.com
+```
+
+<br>
+
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,py,django,kotlin,nginx,nodejs,r)](https://skillicons.dev)
+
+**Database**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
+
+**Cloud Servers**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,idea,pycharm,vscode,vim,androidstudio,atom,figma)](https://skillicons.dev)
+
+
+<br>
+
 <br>
 <br>
 
-[![WonJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LWJ0513&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LWJ0513&show_icons=true&rank_icon=github&hide_border=true" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LWJ0513&layout=compact&langs_count=8&card_width=320&hide_border=true&hide=roff,objective-c,typescript,scss,css" /> </a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LWJ0513&layout=compact&langs_count=8&card_width=320" />
-</a>
+<br />
