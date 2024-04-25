@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <span>
 <img src="https://img.shields.io/badge/42 Seoul-000000.svg?style=for-the-badge&logo=42&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-00599C.svg?style=for-the-badge&logo=java&logoColor=white">
+  
 </span>
 <br>
 <br>
