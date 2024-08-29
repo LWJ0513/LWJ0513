@@ -36,7 +36,7 @@ oddish0513@gmail.com
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,idea,pycharm,vscode,vim,androidstudio,atom,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,idea,pycharm,vscode,vim,androidstudio,atom,figma,qt,arduino)](https://skillicons.dev)
 
 
 <br>
