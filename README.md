@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Contact
 ```
-oddish0513@gmail.com
+lim.wjeong@gmail.com
 ```
 
 <br>
@@ -44,7 +44,7 @@ oddish0513@gmail.com
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LWJ0513&show_icons=true&rank_icon=github&hide_border=true" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LWJ0513&layout=compact&langs_count=8&card_width=320&hide_border=true&hide=roff,objective-c,typescript,scss,css" /> </a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LWJ0513&show_icons=true&rank_icon=github&hide_border=true" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LWJ0513&layout=compact&langs_count=10&card_width=320&hide_border=true&hide=roff,objective-c,typescript,scss,css" /> </a> |
 | ------------- | ------------- |
 
 <br />
